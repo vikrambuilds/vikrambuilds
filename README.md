@@ -80,24 +80,15 @@ Authentication, dashboards, real-world features
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikrambuilds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vikrambuilds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=vikrambuilds&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vikrambuilds&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrambuilds&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vikrambuilds&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vikrambuilds&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -107,11 +98,13 @@ Authentication, dashboards, real-world features
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikrambuilds&theme=tokyo-night&hide_border=true"/>
 
 ---
-## 💡 Quote
+
+## 💭 Dev Thought
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=00F7FF&center=true&vCenter=true&width=500&lines=Code.+Break.+Fix.+Repeat.;Build+something+that+matters.;Stay+consistent%2C+success+follows.;Think+like+a+developer.;Turn+ideas+into+reality."/>
 </p>
+
 
 ---
 
