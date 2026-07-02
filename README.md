@@ -80,25 +80,6 @@ Authentication, dashboards, real-world features
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vikrambuilds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=vikrambuilds&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vikrambuilds&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikrambuilds&theme=tokyo-night&hide_border=true"/>
-
----
-
 ## 💭 Dev Thought
 
 <p align="center">
