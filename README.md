@@ -78,6 +78,8 @@ Authentication, dashboards, real-world features
 <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify,aws" />
 </p>
 
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=00F7FF&center=true&vCenter=true&width=500&lines=Code.+Break.+Fix.+Repeat.;Build+something+that+matters.;Stay+consistent%2C+success+follows.;Think+like+a+developer.;Turn+ideas+into+reality."/>
 </p>
